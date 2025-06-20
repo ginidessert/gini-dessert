@@ -6,5 +6,5 @@ categories: [Cake]
 image: assets/images/20220220-Soot Sprite Chocolate Cake.jpg
 featured: true
 hidden: true
-rating: 4.2
+rating: 4.5
 ---
