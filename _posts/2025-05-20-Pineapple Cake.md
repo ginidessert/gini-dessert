@@ -1,7 +1,7 @@
 ---
 title: "Pineapple Cake"
 date: 2025-05-20
-categories: [Photography]
+categories: [Chinese Desserts]
 image: assets/images/20250520-Pineapple Cake.jpg
 author: Gini
 ---
