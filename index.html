@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<!-- 只在首頁顯示 featured 區塊 -->
 {% if page.url == "/" %}
 
 <!-- Featured 區塊
@@ -28,10 +29,11 @@ title: Home
         <h2><span>All Stories</span></h2>
     </div>
     <div class="row listrecent">
+        {% assign featured_posts = site.posts | where: "featured", true %}
         {% for post in paginator.posts %}
-            {% if post.featured != true %}
+            {% unless featured_posts contains post %}
                 {% include postbox.html %}
-            {% endif %}
+            {% endunless %}
         {% endfor %}
     </div>
 </section>
