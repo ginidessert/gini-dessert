@@ -2,7 +2,7 @@
 title: "Pineapple Cake"
 date: 2025-05-20
 categories: [Photography]
-image: /gini-dessert/assets/images/20250520-Pineapple Cake.jpg
+image: assets/images/20250520-Pineapple Cake.jpg
 author: Gini
 ---
 
