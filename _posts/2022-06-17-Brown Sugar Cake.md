@@ -1,7 +1,7 @@
 ---
 title: "Brown Sugar Cake"
 date: 2022-06-17
-categories: [Photography]
+categories: [Chinese Desserts]
 image: assets/images/20220617-Brown Sugar Cake.jpg
 author: Gini
 ---
