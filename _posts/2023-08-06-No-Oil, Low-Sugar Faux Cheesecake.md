@@ -2,7 +2,7 @@
 title: "No-Oil, Low-Sugar Faux Cheesecake"
 date: 2023-08-06
 categories: [Cheesecake]
-image: assets/images/20230806-No-Oil, Low-Sugar Faux Cheesecake.jpg
+image: assets/images/20230806-No-Oil, Low-Sugar Faux Cheesecake.jfif
 author: Gini
 ---
 無油低糖偽芝士蛋糕
