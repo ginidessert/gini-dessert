@@ -2,7 +2,7 @@
 title: "Soft-Baked Cookies"
 date: 2025-05-20
 categories: [Cookies]
-image: assets/images/20231024-Soft-Baked Cookies.jpg
+image: assets/images/20231024-Soft-Baked Cookies.jfif
 author: Gini
 ---
 美式軟餅乾
