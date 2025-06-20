@@ -1,7 +1,7 @@
 ---
 title: "Milk Crumble Bun"
 date: 2022-06-18
-categories: [Photography]
+categories: [Bread]
 image: assets/images/20220618-Milk Crumble Bun.jpg
 author: Gini
 ---
