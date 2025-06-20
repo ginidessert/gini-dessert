@@ -1,7 +1,7 @@
 ---
 title: "Raw Chocolate Tart"
 date: 2022-05-23
-categories: [Photography]
+categories: [Dessert]
 image: assets/images/20220523-Raw Chocolate Tart.jpg
 author: Gini
 ---
