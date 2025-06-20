@@ -1,7 +1,7 @@
 ---
 title: "Pineapple Bun & Mexican Bun"
 date: 2025-05-01
-categories: [Photography]
+categories: [Bread]
 image: assets/images/20250501-Pineapple Bun & Mexican Bun.jpg
 author: Gini
 ---
