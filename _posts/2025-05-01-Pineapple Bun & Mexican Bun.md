@@ -2,7 +2,7 @@
 title: "Pineapple Bun & Mexican Bun"
 date: 2025-05-01
 categories: [Photography]
-image: /gini-dessert/assets/images/20250501-Pineapple Bun & Mexican Bun.jpg
+image: assets/images/20250501-Pineapple Bun & Mexican Bun.jpg
 author: Gini
 ---
 波羅麵包&墨西哥奶酥麵包
