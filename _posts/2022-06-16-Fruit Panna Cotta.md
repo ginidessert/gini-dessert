@@ -1,7 +1,7 @@
 ---
 title: "Fruit Panna Cotta"
 date: 2022-06-16
-categories: [Photography]
+categories: [Dessert]
 image: assets/images/20220616-Fruit Panna Cotta.jpg
 author: Gini
 ---
