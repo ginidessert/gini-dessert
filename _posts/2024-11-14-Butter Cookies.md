@@ -1,7 +1,7 @@
 ---
 title: "Butter Cookies"
 date: 2024-11-14
-categories: [Photography]
+categories: [Cookies]
 image: assets/images/20241114-Butter Cookies.jpg
 author: Gini
 ---
