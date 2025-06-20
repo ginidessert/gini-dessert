@@ -1,10 +1,4 @@
 ---
-# Add a comment to make this file sass-y.
-# Change this file for any custom CSS.
----
----
-# Add a comment to make this file sass-y.
-# Change this file for any custom CSS.
 ---
 
 /* 調整文章內文字樣式 */
@@ -12,7 +6,7 @@
   display: inline;
 }
 
-/* ✅ 新增圖片樣式：卡片內圖片裁成 1:1 且置中 */
+/* ✅ 卡片內圖片裁成 1:1 且置中 */
 .post-image {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -28,14 +22,8 @@
   object-fit: cover;
 }
 
-
-/* We need to add display:inline in order to align the '>>' of the 'read more' link */
-.post-excerpt p {
-	display:inline;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-	"syntax",
-    "starsnonscss"
+  "syntax",
+  "starsnonscss"
 ;
