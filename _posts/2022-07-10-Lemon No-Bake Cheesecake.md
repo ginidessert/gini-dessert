@@ -1,7 +1,7 @@
 ---
 title: "Lemon No-Bake Cheesecake"
 date: 2022-07-10
-categories: [Photography]
+categories: [Cheesecake]
 image: assets/images/20220710-Lemon No-Bake Cheesecake.jpg
 author: Gini
 ---
