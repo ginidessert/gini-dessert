@@ -1,7 +1,7 @@
 ---
 title: "Tofu No-Bake Cheesecake"
 date: 2022-06-16
-categories: [Photography]
+categories: [Cheesecake]
 image: assets/images/20220616-Tofu No-Bake Cheesecake.jpg
 author: Gini
 ---
