@@ -1,7 +1,7 @@
 ---
 title: "White Chocolate Cheesecake"
 date: 2022-07-09
-categories: [Photography]
+categories: [Cheesecake]
 image: assets/images/20220709-White Chocolate Cheesecake.jpg
 author: Gini
 ---
