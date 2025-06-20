@@ -1,7 +1,7 @@
 ---
 title: "Cheese Soufflé"
 date: 2022-07-08
-categories: [Photography]
+categories: [Cake]
 image: assets/images/20220708-Cheese Soufflé.jpg
 author: Gini
 ---
