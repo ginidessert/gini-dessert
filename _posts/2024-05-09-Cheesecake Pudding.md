@@ -1,7 +1,7 @@
 ---
 title: "Cheesecake Pudding"
 date: 2024-05-09
-categories: [Photography]
+categories: [Cheesecake]
 image: assets/images/20240509-Cheesecake.jpg
 author: Gini
 ---
