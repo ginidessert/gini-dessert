@@ -1,7 +1,7 @@
 ---
 title: "Matcha Raw Chocolate Tart"
 date: 2022-05-13
-categories: [Photography]
+categories: [Dessert]
 image: assets/images/20220513-Matcha Raw Chocolate Tart.jpg
 author: Gini
 ---
