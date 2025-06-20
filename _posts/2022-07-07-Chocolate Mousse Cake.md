@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Mousse Cake"
 date: 2022-07-07
-categories: [Photography]
+categories: [Cake]
 image: assets/images/20220707-Chocolate Mousse Cake.jpg
 author: Gini
 ---
