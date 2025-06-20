@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Gini Dessert"
+title: "Gini Dessert"
+description: "一個關於甜點攝影與創作的部落格"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "/gini-dessert"
