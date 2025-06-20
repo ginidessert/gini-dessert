@@ -1,7 +1,7 @@
 ---
 title: "Condensed Milk Chocolate"
 date: 2022-06-20
-categories: [Photography]
+categories: [Dessert]
 image: assets/images/20220620-Condensed Milk Chocolate.jpg
 author: Gini
 ---
