@@ -1,7 +1,7 @@
 ---
 title: "Snow Skin Mochi"
 date: 2022-07-06
-categories: [Photography]
+categories: [Chinese Desserts]
 image: assets/images/20220706-Snow Skin Mochi.jpg
 author: Gini
 ---
