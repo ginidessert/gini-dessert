@@ -1,7 +1,7 @@
 ---
 title: "Nanaimo Bar"
 date: 2022-04-27
-categories: [Photography]
+categories: [Dessert]
 image: assets/images/20220427-Nanaimo Bar.jpg
 author: Gini
 ---
