@@ -1,8 +1,8 @@
 ---
 title: "Canelé de Bordeaux"
 date: 2023-11-28
-categories: [Photography]
-image: assets/images/20231128-Canelé de Bordeaux.jpg
+categories: [Dessert]
+image: assets/images/20231128-Canelé de Bordeaux.jfif
 author: Gini
 ---
 可麗露
