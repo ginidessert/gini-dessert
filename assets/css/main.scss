@@ -4,33 +4,37 @@
   border: none;
   background-color: transparent;
   padding-top: 0;
-  overflow: hidden; /* ⛑️ 防止內部滑出格子 */
+  overflow: hidden;
+  position: relative;
 }
 
+/* 內部容器動畫設定 */
 .wrapfooter {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  transform: translateX(0); /* 初始位置 */
+  justify-content: space-between;
+  transform: translateX(-20px);  /* ❗️一開始往左位移 */
   transition: transform 0.4s ease;
   font-size: 0.75rem;
   color: #aaa;
-  padding: 0 10px; /* 避免貼邊 */
+  padding: 0 0.5rem;
 }
 
-/* 滑鼠移入卡片時右移 */
+/* 滑鼠經過卡片 → 回到原本位置 */
 .card:hover .wrapfooter {
-  transform: translateX(30px); /* 控制移動距離，不要太大 */
+  transform: translateX(0);
 }
 
-/* 作者頭像初始隱藏 */
+/* 頭像預設隱藏 */
 .meta-footer-thumb {
   opacity: 0;
+  width: 24px;
+  height: 24px;
   margin-right: 8px;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.4s ease;
 }
 
-/* 滑入時顯示 */
+/* 滑鼠經過時出現 */
 .card:hover .meta-footer-thumb {
   opacity: 1;
 }
