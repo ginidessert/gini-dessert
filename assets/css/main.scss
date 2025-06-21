@@ -25,6 +25,9 @@
 }
 
 .meta-footer-thumb {
+   width: 32px;
+  height: 32px;
+  flex-shrink: 0;
   transform: translateX(-8px); /* 初始稍微靠左 */
   opacity: 0;
   transition:
