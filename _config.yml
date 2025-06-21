@@ -2,8 +2,8 @@
 name: "Gini Dessert"
 title: "Gini Dessert"
 description: "A blog about dessert photography and creation <br> 一個關於甜點攝影與創作的部落格"
-logo: 'assets/images/G.png'
-favicon: 'assets/images/G.png'
+logo: 'assets/images/G2.png'
+favicon: 'assets/images/G2.png'
 baseurl: "/gini-dessert"
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
