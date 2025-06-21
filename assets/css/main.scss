@@ -24,19 +24,22 @@
   transform: translateX(0); /* 滑鼠移入時搬回原位 */
 }
 
-/* 頭貼容器初始透明 */
 .meta-footer-thumb {
-  width: 32px;
-  height: 32px;
-  flex-shrink: 0;
+  transform: translateX(-8px); /* 初始稍微靠左 */
   opacity: 0;
-  transition: opacity 0.2s ease 0s; /* 快速隱藏、無延遲 */
+  transition:
+    opacity 0.2s ease 0s,
+    transform 0.2s ease 0s;
 }
 
 .card:hover .meta-footer-thumb {
+  transform: translateX(0);
   opacity: 1;
-  transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
+  transition:
+    opacity 0.5s ease 0.25s,
+    transform 0.3s ease 0.25s;
 }
+
 
 .meta-footer-thumb img {
   width: 100%;
