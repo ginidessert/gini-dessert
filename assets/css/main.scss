@@ -6,16 +6,16 @@
   gap: 6px;
   font-size: 0.75rem;
   color: #aaa;
-  padding-left: 1rem; /* 與 card 內文字齊 */
+  padding-left: 2.5rem; /* 保留頭貼空間 */
+  transform: translateX(-2.5rem); /* 文字初始搬到頭貼位置 */
   transition: transform 0.3s ease;
-  transform: translateX(0);
 }
 
 .card:hover .wrapfooter {
-  transform: translateX(8px); /* 往右移一點點，避免溢出 */
+  transform: translateX(0); /* 滑鼠移入時搬回原位 */
 }
 
-/* 頭像預設隱藏 */
+/* 頭貼容器初始透明 */
 .meta-footer-thumb {
   width: 24px;
   height: 24px;
@@ -24,7 +24,6 @@
   transition: opacity 0.3s ease;
 }
 
-/* hover 顯示頭像 */
 .card:hover .meta-footer-thumb {
   opacity: 1;
 }
@@ -36,6 +35,7 @@
   border-radius: 50%;
   display: block;
 }
+
 
 
 /* 調整文章內文字樣式 */
