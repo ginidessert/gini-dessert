@@ -1,37 +1,12 @@
-/* 弱化作者資訊顯示 */
 .post-meta {
-  color: #999;
-  font-size: 0.8rem;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  margin-top: auto;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-/* 作者頭像縮小 */
-.post-meta img {
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  margin-right: 6px;
+.card:hover .post-meta {
+  opacity: 1;
 }
 
-/* 預設隱藏作者名稱 */
-.post-meta .author-name {
-  display: none;
-}
-
-/* hover 時才顯示 */
-.card:hover .post-meta .author-name {
-  display: inline;
-}
-
-/* 日期 icon + tooltip */
-.post-meta time {
-  font-size: 0.7rem;
-  margin-left: 6px;
-  color: #bbb;
-}
 .maxthumb {
   position: relative;
   width: 100%;
