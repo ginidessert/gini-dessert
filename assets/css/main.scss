@@ -6,8 +6,8 @@
   gap: 6px;
   font-size: 0.75rem;
   color: #aaa;
-  padding-left: 0rem; /* 保留頭貼空間 */
-  transform: translateX(-4.5rem); /* 文字初始搬到頭貼位置 */
+  padding-left: 2.5rem; /* 保留頭貼空間 */
+  transform: translateX(-2.5rem); /* 文字初始搬到頭貼位置 */
   transition: transform 0.3s ease;
 }
 
