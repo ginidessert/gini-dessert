@@ -3,13 +3,22 @@
 .wrapfooter {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+/* 左邊資訊區塊，只有這塊會滑動 */
+.footer-left {
+  display: flex;
+  align-items: center;
   gap: 6px;
   font-size: 1rem;
   color: #aaa;
-  padding-left: 0.35rem; /* 保留頭貼空間 */
-  transform: translateX(-2.5rem); /* 文字初始搬到頭貼位置 */
+  padding-left: 0.35rem; /* 頭貼原本空間 */
+  transform: translateX(-2.5rem); /* 初始向左移，佔頭貼位置 */
   transition: transform 0.3s ease;
 }
+
 
 .card:hover .wrapfooter {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */
