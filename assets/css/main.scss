@@ -45,12 +45,8 @@
   display: block;
 }
 
-/* 整體 footer 容器分成左右兩區 */
-.wrapfooter {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: 1rem;
+.footer-right {
+  flex-shrink: 0;
 }
 
 /* 調整文章內文字樣式 */
