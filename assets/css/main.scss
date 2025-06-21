@@ -6,7 +6,7 @@
   gap: 6px;
   font-size: 1rem;
   color: #aaa;
-  padding-left: 0.5rem; /* 保留頭貼空間 */
+  padding-left: 0.35rem; /* 保留頭貼空間 */
   transform: translateX(-2.5rem); /* 文字初始搬到頭貼位置 */
   transition: transform 0.3s ease;
 }
@@ -21,7 +21,7 @@
   height: 32px;
   flex-shrink: 0;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.5s ease;
 }
 
 .card:hover .meta-footer-thumb {
