@@ -1,5 +1,27 @@
 ---
 ---
+/* 弱化卡片底部作者區塊 */
+.card-footer {
+  border: none;
+  background-color: transparent;
+  padding-top: 0;
+}
+
+/* 預設隱藏 footer 資訊 */
+.wrapfooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 0.75rem;
+  color: #aaa;
+}
+
+/* 滑鼠移入時顯示 */
+.card:hover .wrapfooter {
+  opacity: 1;
+}
 
 
 /* 調整文章內文字樣式 */
