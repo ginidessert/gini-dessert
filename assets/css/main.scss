@@ -1,40 +1,38 @@
 ---
 ---
-/* 整體區塊初始靠左 */
+.card-footer {
+  border: none;
+  background-color: transparent;
+  padding-top: 0;
+  overflow: hidden; /* ⛑️ 防止內部滑出格子 */
+}
+
 .wrapfooter {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  opacity: 1;
-  transform: translateX(0);
+  transform: translateX(0); /* 初始位置 */
   transition: transform 0.4s ease;
   font-size: 0.75rem;
   color: #aaa;
+  padding: 0 10px; /* 避免貼邊 */
 }
 
-/* 滑鼠移入時，區塊往右移 */
+/* 滑鼠移入卡片時右移 */
 .card:hover .wrapfooter {
-  transform: translateX(40px);
+  transform: translateX(30px); /* 控制移動距離，不要太大 */
 }
 
-/* 作者頭像一開始隱藏 */
+/* 作者頭像初始隱藏 */
 .meta-footer-thumb {
   opacity: 0;
   margin-right: 8px;
   transition: opacity 0.3s ease;
 }
 
-/* 滑入時才顯示作者頭像 */
+/* 滑入時顯示 */
 .card:hover .meta-footer-thumb {
   opacity: 1;
-}
-
-/* 其餘內容常駐顯示 */
-.wrapfooter .author-meta,
-.wrapfooter .post-date,
-.wrapfooter .post-read-more {
-  opacity: 1;
-  transition: opacity 0.3s ease;
 }
 
 
