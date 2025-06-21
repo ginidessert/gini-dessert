@@ -1,3 +1,25 @@
+.card-footer {
+  position: relative;
+  min-height: 30px; /* 給作者區一點空間 */
+}
+
+/* 預設隱藏作者資訊 */
+.card-footer .post-meta {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 0.75rem;
+  color: #999;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+/* hover 整張卡片才顯示作者資訊 */
+.card:hover .card-footer .post-meta {
+  opacity: 1;
+}
+
+
 .post-meta {
   opacity: 0;
   transition: opacity 0.3s ease;
