@@ -4,9 +4,9 @@
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.75rem;
+  font-size: 1rem;
   color: #aaa;
-  padding-left: 0rem; /* 保留頭貼空間 */
+  padding-left: 0.5rem; /* 保留頭貼空間 */
   transform: translateX(-2.5rem); /* 文字初始搬到頭貼位置 */
   transition: transform 0.3s ease;
 }
@@ -17,8 +17,8 @@
 
 /* 頭貼容器初始透明 */
 .meta-footer-thumb {
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   flex-shrink: 0;
   opacity: 0;
   transition: opacity 0.3s ease;
