@@ -1,17 +1,35 @@
 ---
 ---
-/* 一開始隱藏作者頭像 */
-.wrapfooter .meta-footer-thumb {
+/* 整體區塊初始靠左 */
+.wrapfooter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  opacity: 1;
+  transform: translateX(0);
+  transition: transform 0.4s ease;
+  font-size: 0.75rem;
+  color: #aaa;
+}
+
+/* 滑鼠移入時，區塊往右移 */
+.card:hover .wrapfooter {
+  transform: translateX(40px);
+}
+
+/* 作者頭像一開始隱藏 */
+.meta-footer-thumb {
   opacity: 0;
+  margin-right: 8px;
   transition: opacity 0.3s ease;
 }
 
-/* 滑鼠移入卡片時顯示作者頭像 */
+/* 滑入時才顯示作者頭像 */
 .card:hover .meta-footer-thumb {
   opacity: 1;
 }
 
-/* 姓名、日期、書籤常駐顯示樣式 */
+/* 其餘內容常駐顯示 */
 .wrapfooter .author-meta,
 .wrapfooter .post-date,
 .wrapfooter .post-read-more {
