@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.25rem;
+  font-size: 0.75rem;
   color: #aaa;
   padding-left: 0rem; /* 保留頭貼空間 */
   transform: translateX(-4.5rem); /* 文字初始搬到頭貼位置 */
@@ -36,7 +36,13 @@
   display: block;
 }
 
-
+/* 整體 footer 容器分成左右兩區 */
+.wrapfooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
 
 /* 調整文章內文字樣式 */
 .post-excerpt p {
