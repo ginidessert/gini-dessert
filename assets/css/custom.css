@@ -82,7 +82,7 @@
 }
 
   /* hover 效果 */
-.maxthumb:hover img {
+.card:hover .maxthumb:hover img {
   transform: scale(1.05);
 }
 
