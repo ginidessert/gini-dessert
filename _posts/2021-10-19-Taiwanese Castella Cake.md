@@ -23,9 +23,8 @@ author: Gini
 完全沒有加油，但口感還不錯(不會乾乾的)
 古早味蛋糕一般都是加烤盤紙烤，烤好要馬上脫模放涼
 
-參考食譜:
 <p style="overflow-wrap: anywhere;">參考食譜:
 <a href="https://haruhii.pixnet.net/blog/post/47773246-taiwan-castella" target="_blank">點我跳轉</a>
 </p>
 <a href="https://www.youtube.com/watch?v=q6KuhqKqcy4&ab_channel=Sweet_Potato_Mui%E8%95%83%E8%96%AF%E5%A6%B9" target="_blank">點我跳轉</a>
-</p>
+
