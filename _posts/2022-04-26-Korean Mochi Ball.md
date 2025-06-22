@@ -1,7 +1,7 @@
 ---
 title: "Korean Mochi Ball"
 date: 2022-04-26
-categories: [Dessert]
+categories: [Bread]
 image: assets/images/20220426-Korean Mochi Ball.jpg
 author: Gini
 ---
