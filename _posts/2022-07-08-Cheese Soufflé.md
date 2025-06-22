@@ -38,8 +38,9 @@ author: Gini
 煉乳口味: 已經有減少煉乳用量(原食譜加 60 g)但還是偏甜，味道吃起來還行
 4. 總體而言，由於是舒芙蕾，口感和蛋糕不太一樣，整體會比較黏一點，也不會這麼蓬鬆，算是一款食材非常簡單，可以試試看的甜點，但如果真的想要到很好吃還是材料多一點好XD
 
-<p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://rulichsu.pixnet.net/blog/post/456707333-%E7%85%89%E4%B9%B3%E8%88%92%E8%8A%99%E8%95%BE%E8%B5%B7%E5%8F%B8%E8%9B%8B%E7%B3%95%EF%BC%88%E5%8F%AA%E7%94%A8%E4%B8%89%E7%A8%AE%E6%9D%90%E6%96%99%EF%BC%89" target="_blank">點我跳轉</a>
-<br>
-<a href="https://rulichsu.pixnet.net/blog/post/218942273-%E6%97%A5%E5%BC%8F%E8%88%92%E8%8A%99%E8%95%BE%E8%B5%B7%E5%8F%B8%E8%9B%8B%E7%B3%95%28%E5%8F%AA%E7%94%A8%E4%B8%89%E7%A8%AE%E6%9D%90%E6%96%99%29" target="_blank">點我跳轉</a>
-</p>
+<p style="overflow-wrap: anywhere;">參考食譜:</p>
+
+<ul style="list-style: none;">
+    <li><a href="https://rulichsu.pixnet.net/blog/post/456707333-%E7%85%89%E4%B9%B3%E8%88%92%E8%8A%99%E8%95%BE%E8%B5%B7%E5%8F%B8%E8%9B%8B%E7%B3%95%EF%BC%88%E5%8F%AA%E7%94%A8%E4%B8%89%E7%A8%AE%E6%9D%90%E6%96%99%EF%BC%89" target="_blank">點我跳轉</a></li>
+    <li><a href="https://rulichsu.pixnet.net/blog/post/218942273-%E6%97%A5%E5%BC%8F%E8%88%92%E8%8A%99%E8%95%BE%E8%B5%B7%E5%8F%B8%E8%9B%8B%E7%B3%95%28%E5%8F%AA%E7%94%A8%E4%B8%89%E7%A8%AE%E6%9D%90%E6%96%99%29" target="_blank">點我跳轉</a></li>
+</ul>
