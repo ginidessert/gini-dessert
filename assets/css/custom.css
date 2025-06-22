@@ -45,7 +45,8 @@
 /* Recent 區仍保留動畫 */
 .recent-posts .footer-left {
   transform: translateX(-2.5rem);
-  transition: opacity 0.2s ease 0s;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .recent-posts .meta-footer-thumb {
@@ -55,6 +56,7 @@
 
 .recent-posts .card:hover .footer-left {
   transform: translateX(0);
+  opacity: 1;
 }
 .recent-posts .card:hover .meta-footer-thumb {
   opacity: 1;
