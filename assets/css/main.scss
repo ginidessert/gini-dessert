@@ -74,6 +74,35 @@
   object-fit: cover;
 }
 
+/* 為分類（category）與標籤（tag）頁加上動畫設定 */
+.recent-posts .footer-left,
+.category .footer-left,
+.tag .footer-left {
+  transform: translateX(-36px);
+  opacity: 1;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.recent-posts .card:hover .footer-left,
+.category .card:hover .footer-left,
+.tag .card:hover .footer-left {
+  transform: translateX(0);
+}
+
+.recent-posts .meta-footer-thumb,
+.category .meta-footer-thumb,
+.tag .meta-footer-thumb {
+  opacity: 0;
+  transition: opacity 0.5s ease 0.25s;
+}
+
+.recent-posts .card:hover .meta-footer-thumb,
+.category .card:hover .meta-footer-thumb,
+.tag .card:hover .meta-footer-thumb {
+  opacity: 1;
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "syntax",
