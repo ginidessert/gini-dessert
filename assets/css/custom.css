@@ -91,3 +91,8 @@
 .featured-posts .author-meta {
   margin-left: 0.8rem; /* 原本是 0.4rem，加大距離 */
 }
+
+.layout-categories .footer-left {
+  gap: 0.3rem;
+}
+
