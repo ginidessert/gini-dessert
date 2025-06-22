@@ -31,5 +31,6 @@ author: Gini
 3. 覺得上色不夠可以倒出來看看再丟回去烤
 4. 拿出來後會很脆，冰冷凍可以保存脆度一個禮拜左右，再冰更久就會不脆了
 
-參考食譜：
-https://ciao.kitchen/canele/
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://ciao.kitchen/canele/" target="_blank">https://ciao.kitchen/canele/</a>
+</p>

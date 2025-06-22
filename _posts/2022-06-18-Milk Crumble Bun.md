@@ -33,5 +33,6 @@ author: Gini
 2. 建議直接看影片看作法
 3. 我是放在六連模裡面烤，直接放烤盤應該也行
 
-參考資料:
-https://www.facebook.com/watch/?ref=saved&v=395261312548496
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://www.facebook.com/watch/?ref=saved&v=395261312548496" target="_blank">https://www.facebook.com/watch/?ref=saved&v=395261312548496</a>
+</p>

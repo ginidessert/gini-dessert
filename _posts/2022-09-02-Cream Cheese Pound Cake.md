@@ -24,5 +24,6 @@ author: Gini
 1. 想要中間的線，可以約12分鐘時用沾水的刀在蛋糕上面劃一痕
 2. 蛋一顆一顆加比較容易攪拌
 
-參考食譜:
-https://hanaskichen.pixnet.net/blog/post/194104276-%E4%B9%B3%E9%85%AA%E8%B5%B7%E5%8F%B8%E7%A3%85%E8%9B%8B%E7%B3%95
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://hanaskichen.pixnet.net/blog/post/194104276-%E4%B9%B3%E9%85%AA%E8%B5%B7%E5%8F%B8%E7%A3%85%E8%9B%8B%E7%B3%95" target="_blank">https://hanaskichen.pixnet.net/blog/post/194104276-%E4%B9%B3%E9%85%AA%E8%B5%B7%E5%8F%B8%E7%A3%85%E8%9B%8B%E7%B3%95</a>
+</p>

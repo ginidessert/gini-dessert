@@ -29,5 +29,6 @@ author: Gini
 1. 如果懶，可以把步驟 1 和 3 的一起加熱，用不打發的鮮奶油做，口感會紮實很多
 2. 夏天鮮奶油常常打不發，如果太熱可以注意一下鮮奶油的保冰
 
-參考食譜：
-https://www.youtube.com/watch?v=hhDUku34kmU
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://www.youtube.com/watch?v=hhDUku34kmU" target="_blank">https://www.youtube.com/watch?v=hhDUku34kmU</a>
+</p>

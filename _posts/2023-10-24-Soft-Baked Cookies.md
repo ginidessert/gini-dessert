@@ -28,5 +28,7 @@ author: Gini
 1. 這是唯一一個我沒有減糖的食譜，美國朋友表示，好吃但這不夠甜；台灣朋友表示，有點甜但還可接受。糖量請自己斟酌~
 2. 巧克力我用明治的，大概外面買的到一大片的量就是100 g
 
-參考食譜：
-https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/" target="_blank">https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/
+</a>
+</p>

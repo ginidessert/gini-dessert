@@ -33,5 +33,6 @@ author: Gini
 2. 做完冰過之後布丁表面會縮水一點，所以拍照時我有再最上面倒一點牛奶，增加一點層次也比較好看
 3. 個人覺得糖還可以再減少很多，尤其是焦糖真的甜
 
-參考食譜：
-https://caroleasylife.blogspot.com/2019/08/blog-post_8.html
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://caroleasylife.blogspot.com/2019/08/blog-post_8.html" target="_blank">https://caroleasylife.blogspot.com/2019/08/blog-post_8.html</a>
+</p>
