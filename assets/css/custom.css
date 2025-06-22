@@ -91,3 +91,10 @@
 .featured-posts .author-meta {
   margin-left: 0.8rem; /* 原本是 0.4rem，加大距離 */
 }
+
+/* 調整categories的作者資訊 hover 動畫位移距離 */
+.layout-categories .footer-left {
+  transform: translateX(-45px); /* ✅ 改成比首頁小的初始偏移距離 */
+  opacity: 1;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
