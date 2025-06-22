@@ -8,7 +8,8 @@
 }
 
 /* 左邊資訊區塊，只有這塊會滑動 */ 
-.layout-categories .footer-left {
+.layout-categories .footer-left
+.footer-left{
   display: flex;
   align-items: center;
   gap: 6px;
@@ -20,7 +21,8 @@
 }
 
 
-.layout-categories .card:hover .footer-left {
+.layout-categories .card:hover .footer-left
+.card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
   opacity: 1;
 }
