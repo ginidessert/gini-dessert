@@ -24,5 +24,5 @@ author: Gini
 2. 可以拿來和巴斯克的材料調整，降低巴斯克熱量又不會讓味道變太多
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://coms.pub/article/1595136?fbclid=IwAR1Mi6QVdO_9OopTENV7xoA3uPwJWm94fSC7QCk_DOSZ2hZ1bce7hEk4d08#375" target="_blank">https://coms.pub/article/1595136?fbclid=IwAR1Mi6QVdO_9OopTENV7xoA3uPwJWm94fSC7QCk_DOSZ2hZ1bce7hEk4d08#375</a>
+<a href="https://coms.pub/article/1595136?fbclid=IwAR1Mi6QVdO_9OopTENV7xoA3uPwJWm94fSC7QCk_DOSZ2hZ1bce7hEk4d08#375" target="_blank">點我跳轉</a>
 </p>

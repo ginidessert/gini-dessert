@@ -33,5 +33,5 @@ author: Gini
 4.剛烤出來最好吃，放了一天半後就會有點乾乾的，因此建議烤出來隔天就要吃完
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://caroleasylife.blogspot.com/2019/12/blog-post_29.html" target="_blank">https://caroleasylife.blogspot.com/2019/12/blog-post_29.html</a>
+<a href="https://caroleasylife.blogspot.com/2019/12/blog-post_29.html" target="_blank">點我跳轉</a>
 </p>

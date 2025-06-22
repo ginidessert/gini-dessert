@@ -30,5 +30,5 @@ author: Gini
 2. 夏天鮮奶油常常打不發，如果太熱可以注意一下鮮奶油的保冰
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://www.youtube.com/watch?v=hhDUku34kmU" target="_blank">https://www.youtube.com/watch?v=hhDUku34kmU</a>
+<a href="https://www.youtube.com/watch?v=hhDUku34kmU" target="_blank">點我跳轉</a>
 </p>

@@ -29,6 +29,6 @@ author: Gini
 2. 巧克力我用明治的，大概外面買的到一大片的量就是100 g
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/" target="_blank">https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/
+<a href="https://blog.pinkoi.com/tw/lifestyle/recipe/2112-fudge-cookies-recipe/" target="_blank">點我跳轉
 </a>
 </p>

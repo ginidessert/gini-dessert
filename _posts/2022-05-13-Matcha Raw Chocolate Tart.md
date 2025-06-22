@@ -19,5 +19,5 @@ author: Gini
 2. 明治白巧克力很甜，整體有點過甜，用烘焙坊的白巧克力可能甜度會比較剛好
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://icook.tw/recipes/194041" target="_blank">https://icook.tw/recipes/194041</a>
+<a href="https://icook.tw/recipes/194041" target="_blank">點我跳轉</a>
 </p>

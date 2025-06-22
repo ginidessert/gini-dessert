@@ -25,5 +25,5 @@ author: Gini
 3. 要做成巧克力球的話，外面可以灑巧克力米、可可粉、杏仁碎、椰蓉或任何想得到的東西
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://www.youtube.com/watch?v=SiVUUiBRrME" target="_blank">https://www.youtube.com/watch?v=SiVUUiBRrME</a>
+<a href="https://www.youtube.com/watch?v=SiVUUiBRrME" target="_blank">點我跳轉</a>
 </p>

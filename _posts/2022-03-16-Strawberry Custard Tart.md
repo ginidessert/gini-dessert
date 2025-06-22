@@ -27,5 +27,5 @@ author: Gini
 卡士達醬稍微放涼就要用保鮮膜包起來，防止表面形成硬皮
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://lindawu122470.pixnet.net/blog/post/199625574" target="_blank">https://lindawu122470.pixnet.net/blog/post/199625574</a>
+<a href="https://lindawu122470.pixnet.net/blog/post/199625574" target="_blank">點我跳轉</a>
 </p>

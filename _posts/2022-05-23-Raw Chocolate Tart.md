@@ -36,7 +36,7 @@ author: Gini
 生巧克力小知識: 
 <p style="overflow-wrap: anywhere;">參考食譜:</p>
 <ul style="list-style: none;">
-    <li><span>塔皮:</span><a href="https://mrsblackcat.pixnet.net/blog/post/456558326" target="_blank">https://mrsblackcat.pixnet.net/blog/post/456558326</a></li>
-    <li><span>內餡:</span><a href="https://www.sweet-dumpling.com/doc/6ab984745cc31182898b1f56bc043e9c" target="_blank">https://www.sweet-dumpling.com/doc/6ab984745cc31182898b1f56bc043e9c</a></li>
-    <li><span>生巧克力小知識: </span><a href="https://keispice.com/ganache/" target="_blank">https://keispice.com/ganache/</a></li>
+    <li><span>塔皮:</span><a href="https://mrsblackcat.pixnet.net/blog/post/456558326" target="_blank">點我跳轉</a></li>
+    <li><span>內餡:</span><a href="https://www.sweet-dumpling.com/doc/6ab984745cc31182898b1f56bc043e9c" target="_blank">點我跳轉</a></li>
+    <li><span>生巧克力小知識: </span><a href="https://keispice.com/ganache/" target="_blank">點我跳轉</a></li>
 </ul>

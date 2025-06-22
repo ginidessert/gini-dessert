@@ -34,5 +34,5 @@ author: Gini
 3. 個人覺得糖還可以再減少很多，尤其是焦糖真的甜
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://caroleasylife.blogspot.com/2019/08/blog-post_8.html" target="_blank">https://caroleasylife.blogspot.com/2019/08/blog-post_8.html</a>
+<a href="https://caroleasylife.blogspot.com/2019/08/blog-post_8.html" target="_blank">點我跳轉</a>
 </p>

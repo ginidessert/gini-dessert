@@ -29,5 +29,5 @@ author: Gini
 2. 可以把檸檬皮也拌進去，或是單純做裝飾
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://lexie.tw/2014-08-09-76/" target="_blank">https://lexie.tw/2014-08-09-76/</a>
+<a href="https://lexie.tw/2014-08-09-76/" target="_blank">點我跳轉</a>
 </p>

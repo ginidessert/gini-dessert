@@ -35,5 +35,5 @@ author: Gini
 裝飾的草莓小精靈眼睛是融化的巧克力，臉就是單純的鮮奶油打發
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://yummymum.tw/nobakecheesecake/" target="_blank">https://yummymum.tw/nobakecheesecake/</a>
+<a href="https://yummymum.tw/nobakecheesecake/" target="_blank">點我跳轉</a>
 </p>

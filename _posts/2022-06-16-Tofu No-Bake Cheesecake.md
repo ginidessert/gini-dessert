@@ -29,5 +29,5 @@ author: Gini
 3. 吃起來很像用豆漿做的乳酪蛋糕，很特別，也比想像中好吃。由於是加入豆腐，吃起來非常清爽不容易膩。
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://joytwins.com/snow-cake/" target="_blank">https://icook.tw/recipes/114216</a>
+<a href="https://joytwins.com/snow-cake/" target="_blank">點我跳轉</a>
 </p>

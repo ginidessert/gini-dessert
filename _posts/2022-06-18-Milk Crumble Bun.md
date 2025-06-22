@@ -34,5 +34,5 @@ author: Gini
 3. 我是放在六連模裡面烤，直接放烤盤應該也行
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://www.facebook.com/watch/?ref=saved&v=395261312548496" target="_blank">https://www.facebook.com/watch/?ref=saved&v=395261312548496</a>
+<a href="https://www.facebook.com/watch/?ref=saved&v=395261312548496" target="_blank">點我跳轉</a>
 </p>

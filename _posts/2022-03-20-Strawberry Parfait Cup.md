@@ -26,7 +26,7 @@ author: Gini
 這個食譜用全蛋，不用擔心會多蛋白
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://lisame826.pixnet.net/blog/post/388659586-%E7%83%98%E7%84%99%E7%AD%86%E8%A8%98-1%3A-%E6%98%93%E4%BD%9C%E5%A5%BD%E5%90%83%E7%9A%84%E5%8D%A1%E5%A3%AB%E9%81%94%E9%86%AC" target="_blank">https://lisame826.pixnet.net/blog/post/388659586-%E7%83%98%E7%84%99%E7%AD%86%E8%A8%98-1%3A-%E6%98%93%E4%BD%9C%E5%A5%BD%E5%90%83%E7%9A%84%E5%8D%A1%E5%A3%AB%E9%81%94%E9%86%AC</a>
+<a href="https://lisame826.pixnet.net/blog/post/388659586-%E7%83%98%E7%84%99%E7%AD%86%E8%A8%98-1%3A-%E6%98%93%E4%BD%9C%E5%A5%BD%E5%90%83%E7%9A%84%E5%8D%A1%E5%A3%AB%E9%81%94%E9%86%AC" target="_blank">點我跳轉</a>
 </p>
 
 關於草莓杯杯:

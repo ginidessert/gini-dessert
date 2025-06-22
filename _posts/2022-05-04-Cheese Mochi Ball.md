@@ -28,5 +28,5 @@ author: Gini
 3. 烤之前要噴水是要讓球球表面不要這麼乾，會有龜裂的痕跡，但都不噴也是沒什麼關係
 
 <p style="overflow-wrap: anywhere;">參考食譜:
-<a href="https://caroleasylife.blogspot.com/2014/05/blog-post_8.html" target="_blank">https://caroleasylife.blogspot.com/2014/05/blog-post_8.html</a>
+<a href="https://caroleasylife.blogspot.com/2014/05/blog-post_8.html" target="_blank">點我跳轉</a>
 </p>
