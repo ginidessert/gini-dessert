@@ -1,7 +1,7 @@
 ---
-title: "Strawberry"
+title: "Sablé Breton"
 date: 2025-06-22
-categories: [Dessert]
+categories: [Cookies]
 image: assets/images/20250623-Sablé Breton.jpg
 author: Gini
 ---
