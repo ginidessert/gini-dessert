@@ -1,6 +1,6 @@
 ---
 title: "Sablé Breton"
-date: 2025-06-22
+date: 2025-01-10
 categories: [Cookies]
 image: assets/images/20250623-Sablé Breton.jpg
 author: Gini
