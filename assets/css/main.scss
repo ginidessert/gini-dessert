@@ -40,7 +40,6 @@
 }
 
 
-
 .meta-footer-thumb img {
   width: 100%;
   height: 100%;
@@ -52,6 +51,26 @@
 .footer-right {
   flex-shrink: 0;
 }
+
+/* 加入 listrecent 區塊的動畫設定 */
+.listrecent .footer-left {
+  transform: translateX(-36px);
+  opacity: 1;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.listrecent .card:hover .footer-left {
+  transform: translateX(0);
+}
+
+.listrecent .meta-footer-thumb {
+  opacity: 0;
+  transition: opacity 0.5s ease 0.25s;
+}
+.listrecent .card:hover .meta-footer-thumb {
+  opacity: 1;
+}
+
+
 
 /* 調整文章內文字樣式 */
 .post-excerpt p {
