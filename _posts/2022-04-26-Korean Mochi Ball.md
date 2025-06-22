@@ -32,5 +32,6 @@ author: Gini
 3. "倒三角形狀態"是指: 舀起麵糊會緩慢流下、呈現滑順的倒三角形狀。原味的我使用這個黏稠度，巧克力蛋加比較少，在麵糊滑順但還沒有流動性就停了，結果是兩個烤出來都滿漂亮的，但巧克力有幾顆有表面裂開的情形
 4.剛烤出來最好吃，放了一天半後就會有點乾乾的，因此建議烤出來隔天就要吃完
 
-參考食譜:
-https://caroleasylife.blogspot.com/2019/12/blog-post_29.html
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://example.com/recipe" target="_blank">https://caroleasylife.blogspot.com/2019/12/blog-post_29.html</a>
+</p>
