@@ -8,7 +8,7 @@
 }
 
 /* 左邊資訊區塊，只有這塊會滑動 */ 
-.footer-left {
+.layout-categories .footer-left {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -19,23 +19,8 @@
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-.layout-categories .footer-left {
-  padding-left: 0.25rem;
-  transform: translateX(-3.5rem);
-  opacity: 1;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
 
 .layout-categories .card:hover .footer-left {
-  transform: translateX(0);
-}
-
-.layout-categories .meta-footer-thumb {
-  opacity: 1; /* ✅ 頭貼初始可見 */
-  transition: opacity 0.3s ease;
-}
-
-.card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
   opacity: 1;
 }
@@ -88,38 +73,6 @@
   height: 100%;
   object-fit: cover;
 }
-
-/* 為分類（category）與標籤（tag）頁加上動畫設定 
-.recent-posts .footer-left,
-.category .footer-left,
-.tag .footer-left 
-.listrecent {
-  transform: translateX(-36px);
-  opacity: 1;
-  transition: transform 0.5s ease, opacity 0.25s ease;
-} */
-
-/*.recent-posts .card:hover .footer-left,
-.category .card:hover .footer-left,
-.tag .card:hover .footer-left 
-.listrecent {
-  transform: translateX(0);
-} */
-
-/*.recent-posts .meta-footer-thumb,
-.category .meta-footer-thumb,
-.tag .meta-footer-thumb 
-.listrecent {
-  opacity: 0;
-  transition: opacity 0.2s ease 0s;
-} */
-
-/*.recent-posts .card:hover .meta-footer-thumb,
-.category .card:hover .meta-footer-thumb,
-.tag .card:hover .meta-footer-thumb 
-.listrecent {
-  opacity: 1;
-} */
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
