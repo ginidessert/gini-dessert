@@ -37,8 +37,6 @@
   opacity: 1;
   transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
 }
-
-
 .meta-footer-thumb img {
   width: 100%;
   height: 100%;
@@ -79,19 +77,6 @@
   opacity: 1;  /* ✅ 讓初始就顯示 */
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
-
-
-
-/* 頭像樣式一致 */
-.meta-footer-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
-}
-
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
