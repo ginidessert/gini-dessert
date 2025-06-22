@@ -16,12 +16,13 @@
   color: #aaa;
   padding-left: 0.35rem; /* 頭貼原本空間 */
   transform: translateX(-3rem); /* 初始向左移，佔頭貼位置 */
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 
 .card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */
+  opacity: 1;
 }
 
 /* 頭貼容器初始透明 */
