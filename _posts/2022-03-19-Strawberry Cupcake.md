@@ -1,7 +1,7 @@
 ---
 title: "Strawberry Cupcake"
 date: 2022-03-19
-categories: [Dessert]
+categories: [Cake]
 image: assets/images/20220319-Strawberry Cupcake.jpg
 author: Gini
 ---
