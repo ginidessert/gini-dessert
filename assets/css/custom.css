@@ -44,7 +44,7 @@
 
 /* Recent 區仍保留動畫 */
 .recent-posts .footer-left {
-  transform: translateX(-72px);
+  transform: translateX(-40px);
   opacity: 1;
   padding-left: 0;
   transition: transform 0.3s ease, opacity 0.3s ease;
