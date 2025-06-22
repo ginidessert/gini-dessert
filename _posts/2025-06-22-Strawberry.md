@@ -2,7 +2,7 @@
 title: "Strawberry"
 date: 2025-06-22
 categories: [Dessert]
-image: assets/images/Strawberry Parfait Cup 2.jpg
+image: assets/images/20250623-Sablé Breton.jpg
 author: Gini
 ---
 
