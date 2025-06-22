@@ -19,11 +19,18 @@
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-.listrecent {
-  padding-left: 0.25rem; /* 頭貼原本空間 */
-  transform: translateX(-3.5rem); /* 初始向左移，佔頭貼位置 */
+.layout-categories .footer-left {
+  padding-left: 0.25rem;
+  transform: translateX(-3.5rem);
+  opacity: 0;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
+
+.layout-categories .card:hover .footer-left {
+  transform: translateX(0);
+  opacity: 1;
+}
+
 
 .card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
