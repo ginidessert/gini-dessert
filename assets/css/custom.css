@@ -93,3 +93,6 @@
 .author-meta {
   margin-left: 0.4rem;
 }
+.featured-posts .author-meta {
+  margin-left: 0.6rem; /* 原本是 0.4rem，加大距離 */
+}
