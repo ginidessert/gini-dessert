@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Accumulated experience of social living"
 author: sal
