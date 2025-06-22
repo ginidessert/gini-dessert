@@ -1,5 +1,3 @@
----
----
 .wrapfooter {
   display: flex;
   align-items: center;
@@ -7,38 +5,37 @@
   margin-top: 1rem;
 }
 
-/* 左邊資訊區塊，只有這塊會滑動 */ 
+/* 左邊資訊區塊，只有這塊會滑動 */
 .footer-left {
   display: flex;
   align-items: center;
   gap: 6px;
   font-size: 1rem;
   color: #aaa;
-  padding-left: 0.25rem; /* 頭貼原本空間 */
-  transform: translateX(-3.5rem); /* 初始向左移，佔頭貼位置 */
+  padding-left: 0.25rem;
+  transform: translateX(-3.5rem);
+  opacity: 0;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-
 .card:hover .footer-left {
-  transform: translateX(0); /* 滑鼠移入時搬回原位 */
+  transform: translateX(0);
   opacity: 1;
 }
 
-/* 頭貼容器初始透明 */
+/* 頭貼容器 */
 .meta-footer-thumb {
   width: 32px;
   height: 32px;
   flex-shrink: 0;
   opacity: 0;
-  transition: opacity 0.2s ease 0s; /* 快速隱藏、無延遲 */
+  transition: opacity 0.2s ease 0s;
 }
 
 .card:hover .meta-footer-thumb {
   opacity: 1;
-  transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
+  transition: opacity 0.5s ease 0.25s;
 }
-
 
 .meta-footer-thumb img {
   width: 100%;
@@ -52,32 +49,44 @@
   flex-shrink: 0;
 }
 
-/* 加入 listrecent 區塊的動畫設定 */
+/* 適用所有動畫區塊（含 recent / category / tag / listrecent） */
+.recent-posts .footer-left,
+.category .footer-left,
+.tag .footer-left,
 .listrecent .footer-left {
-  transform: translateX(-36px);
-  opacity: 1;
+  transform: translateX(-3.5rem);
+  opacity: 0;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
+
+.recent-posts .card:hover .footer-left,
+.category .card:hover .footer-left,
+.tag .card:hover .footer-left,
 .listrecent .card:hover .footer-left {
   transform: translateX(0);
+  opacity: 1;
 }
 
+.recent-posts .meta-footer-thumb,
+.category .meta-footer-thumb,
+.tag .meta-footer-thumb,
 .listrecent .meta-footer-thumb {
   opacity: 0;
   transition: opacity 0.5s ease 0.25s;
 }
+
+.recent-posts .card:hover .meta-footer-thumb,
+.category .card:hover .meta-footer-thumb,
+.tag .card:hover .meta-footer-thumb,
 .listrecent .card:hover .meta-footer-thumb {
   opacity: 1;
 }
 
-
-
-/* 調整文章內文字樣式 */
+/* 內文樣式與圖片 */
 .post-excerpt p {
   display: inline;
 }
 
-/* ✅ 卡片內圖片裁成 1:1 且置中 */
 .post-image {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -92,38 +101,3 @@
   height: 100%;
   object-fit: cover;
 }
-
-/* 為分類（category）與標籤（tag）頁加上動畫設定 */
-.recent-posts .footer-left,
-.category .footer-left,
-.tag .footer-left {
-  transform: translateX(-36px);
-  opacity: 1;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
-.recent-posts .card:hover .footer-left,
-.category .card:hover .footer-left,
-.tag .card:hover .footer-left {
-  transform: translateX(0);
-}
-
-.recent-posts .meta-footer-thumb,
-.category .meta-footer-thumb,
-.tag .meta-footer-thumb {
-  opacity: 0;
-  transition: opacity 0.5s ease 0.25s;
-}
-
-.recent-posts .card:hover .meta-footer-thumb,
-.category .card:hover .meta-footer-thumb,
-.tag .card:hover .meta-footer-thumb {
-  opacity: 1;
-}
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-  "syntax",
-  "starsnonscss"
-;
