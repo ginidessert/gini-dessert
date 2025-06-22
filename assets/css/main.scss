@@ -22,15 +22,18 @@
 .layout-categories .footer-left {
   padding-left: 0.25rem;
   transform: translateX(-3.5rem);
-  opacity: 0;
+  opacity: 1;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .layout-categories .card:hover .footer-left {
   transform: translateX(0);
-  opacity: 1;
 }
 
+.layout-categories .meta-footer-thumb {
+  opacity: 1; /* ✅ 頭貼初始可見 */
+  transition: opacity 0.3s ease;
+}
 
 .card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
