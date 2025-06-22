@@ -1,7 +1,7 @@
 ---
 title: "Cheese Mochi Ball"
 date: 2022-05-04
-categories: [Dessert]
+categories: [Bread]
 image: assets/images/20220504-Cheese Mochi Ball.jpg
 author: Gini
 ---
