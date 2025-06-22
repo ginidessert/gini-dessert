@@ -8,8 +8,7 @@
 }
 
 /* 左邊資訊區塊，只有這塊會滑動 */ 
-.footer-left
-.listrecent{
+.footer-left {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -20,6 +19,11 @@
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
+.listrecent {
+  padding-left: 0.25rem; /* 頭貼原本空間 */
+  transform: translateX(-3.5rem); /* 初始向左移，佔頭貼位置 */
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
 
 .card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
