@@ -25,8 +25,6 @@ author: Gini
 3. 加 oreo 不好拍照但超好吃XD
 4. 還可以在裡面加上抹茶粉、可可粉做變化
 
-參考食譜:
-
 <p style="overflow-wrap: anywhere;">參考食譜:
 <a href="https://jackla39.pixnet.net/blog/post/469499162-%E3%80%90%E9%A3%9F%E8%AD%9C%E3%80%91%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%E8%87%AA%E5%B7%B1%E5%81%9A%EF%BC%8C%E5%8F%AA%E8%A6%81%E5%9B%9B%E7%A8%AE%E6%9D%90%E6%96%99%26%E5%8D%81" target="_blank">點我跳轉</a>
 </p>
