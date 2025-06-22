@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Red Riding Hood"
 author: sal
