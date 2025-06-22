@@ -154,6 +154,38 @@ post_class: post-template
 <!--End Comments
 ================================================== -->
 
+<!-- 自動處理參考食譜連結 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 尋找文章內容區塊
+  const articleContent = document.querySelector('.article-post');
+  if (!articleContent) return;
+  
+  // 尋找所有段落
+  const paragraphs = articleContent.querySelectorAll('p');
+  
+  paragraphs.forEach(paragraph => {
+    // 檢查段落是否以「參考食譜:」開頭
+    if (paragraph.textContent.trim().startsWith('參考食譜:')) {
+      // 設置 overflow-wrap 樣式
+      paragraph.style.overflowWrap = 'anywhere';
+      
+      // 取得段落文字內容
+      let content = paragraph.innerHTML;
+      
+      // 正則表達式找出 URL
+      const urlRegex = /(https?:\/\/[^\s]+)/g;
+      
+      // 替換 URL 為 <a> 標籤
+      content = content.replace(urlRegex, '<a href="$1" target="_blank">$1</a>');
+      
+      // 更新段落內容
+      paragraph.innerHTML = content;
+    }
+  });
+});
+</script>
+
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
