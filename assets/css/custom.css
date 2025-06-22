@@ -97,3 +97,8 @@
 .featured-posts .author-meta {
   margin-left: 0.8rem; /* 原本是 0.4rem，加大距離 */
 }
+
+/* ✅ 只針對分類頁面 (Category) 微調頭貼與文字距離 */
+.layout-categories .footer-left {
+  gap: 4px; /* 調整圖片和文字之間距離 */
+}
