@@ -100,6 +100,6 @@
 
 /* 調整分類頁 footer 的文字與頭貼距離 */
 .layout-categories .author-meta {
-  margin-left: 0.4rem !important; /* 或調整為你認為更適合的值 */
+  margin-left: 0.4rem ; /* 或調整為你認為更適合的值 */
 }
 
