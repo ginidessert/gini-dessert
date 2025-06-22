@@ -1,7 +1,7 @@
 ---
 title: "Cream Cheese Pound Cake"
 date: 2022-09-02
-categories: [Cake]
+categories: [Cake,Cheesecake]
 image: assets/images/20220902-Cream Cheese Pound Cake.jpg
 author: Gini
 ---
