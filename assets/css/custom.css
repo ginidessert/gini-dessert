@@ -28,7 +28,6 @@
   opacity: 1 !important;
 }
 
-/* Featured 區左側作者資訊常駐 */
 .featured-posts .meta-footer-thumb {
   opacity: 1 !important;
 }
@@ -83,7 +82,7 @@
 }
 
   /* hover 效果 */
-  transition: transform 0.3s ease;
+.transition: transform 0.3s ease;
 }
 
 .maxthumb:hover img {
