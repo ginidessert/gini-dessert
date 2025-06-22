@@ -26,6 +26,6 @@ author: Gini
 不確定為什麼步驟2要將牛奶煮滾，猜測是為了將奶油融化，有試過一次將常溫牛奶直接加入也很成功
 卡士達醬稍微放涼就要用保鮮膜包起來，防止表面形成硬皮
 
-參考食譜:
-https://lindawu122470.pixnet.net/blog/post/199625574
-
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://lindawu122470.pixnet.net/blog/post/199625574" target="_blank">點我跳轉</a>
+</p>

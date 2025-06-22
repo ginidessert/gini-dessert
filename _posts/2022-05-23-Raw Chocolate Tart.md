@@ -31,7 +31,12 @@ author: Gini
 1. 生巧克力中，巧克力:鮮奶油的比例會落在 1:1 ~ 2:1 之間，巧克力越多則成品越硬，如果想要入口即化的口感建議使用 1:1 的比例
 2. 要非常注意巧克力不能加熱過頭，會出油，50 度大約就是手指放下去覺得有點燙但還可以忍耐的程度。
 
-參考食譜:
-塔皮: https://mrsblackcat.pixnet.net/blog/post/456558326
-內餡: https://www.sweet-dumpling.com/doc/6ab984745cc31182898b1f56bc043e9c
-生巧克力小知識: https://keispice.com/ganache/
+
+ 
+生巧克力小知識: 
+<p style="overflow-wrap: anywhere;">參考食譜:</p>
+<ul style="list-style: none;">
+    <li><span>塔皮:</span><a href="https://mrsblackcat.pixnet.net/blog/post/456558326" target="_blank">點我跳轉</a></li>
+    <li><span>內餡:</span><a href="https://www.sweet-dumpling.com/doc/6ab984745cc31182898b1f56bc043e9c" target="_blank">點我跳轉</a></li>
+    <li><span>生巧克力小知識: </span><a href="https://keispice.com/ganache/" target="_blank">點我跳轉</a></li>
+</ul>

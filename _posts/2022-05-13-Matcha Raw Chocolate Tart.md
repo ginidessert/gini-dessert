@@ -18,5 +18,6 @@ author: Gini
 1. 抹茶粉我沒有量幾公克，直接用目測顏色來決定
 2. 明治白巧克力很甜，整體有點過甜，用烘焙坊的白巧克力可能甜度會比較剛好
 
-參考食譜:
-https://icook.tw/recipes/194041
+<p style="overflow-wrap: anywhere;">參考食譜:
+<a href="https://icook.tw/recipes/194041" target="_blank">點我跳轉</a>
+</p>
