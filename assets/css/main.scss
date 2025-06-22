@@ -8,8 +8,7 @@
 }
 
 /* 左邊資訊區塊，只有這塊會滑動 */ 
-.footer-left
-.listrecent {
+.footer-left {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -21,13 +20,12 @@
 }
 
 
-.card:hover .footer-left
-.listrecent {
+.card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */
   opacity: 1;
 }
 
-/* 頭貼容器初始透明 */
+/* 頭貼容器初始透明 
 .meta-footer-thumb {
   width: 32px;
   height: 32px;
@@ -35,12 +33,12 @@
   opacity: 0;
   transition: opacity 0.2s ease 0s; /* 快速隱藏、無延遲 */
 }
-
-.card:hover .meta-footer-thumb {
+*/
+/*.card:hover .meta-footer-thumb {
   opacity: 1;
   transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
 }
-
+*/
 
 .meta-footer-thumb img {
   width: 100%;
