@@ -98,15 +98,26 @@
   margin-left: 0.8rem; /* 原本是 0.4rem，加大距離 */
 }
 
-/* 分類頁調整 footer 的文字與頭貼距離 */
+.category-footer-left {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.category-footer-left .author-meta {
+  margin-left: 0 !important;
+}
+
+
+
+/* 分類頁調整 footer 的文字與頭貼距離 
 .layout-categories .footer-left {
   display: flex;
   align-items: center;
   gap: 0.3rem; /* ✅ 調整圖片和文字間的間距，試 0.25rem~0.5rem 之間 */
-}
+}*/
 
-/* 避免多重 margin 疊加，清除作者名稱的 margin-left */
-.layout-categories .author-meta {
-  margin-left: 0; /* ✅ 確保距離只靠 gap 控制 */
-}
+/* 避免多重 margin 疊加，清除作者名稱的 margin-left 
+.layout-categories .author-meta {*/
+  margin-left: 0; /* ✅ 確保距離只靠 gap 控制 
+}*/
 
