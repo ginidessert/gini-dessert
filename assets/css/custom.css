@@ -51,7 +51,7 @@
 
 .recent-posts .meta-footer-thumb {
   opacity: 0;
-  transition: opacity 0.5s ease 0.25s;
+  transition: opacity 0.2s ease 0s; /* 快速隱藏、無延遲 */
 }
 
 .recent-posts .card:hover .footer-left {
@@ -60,6 +60,7 @@
 }
 .recent-posts .card:hover .meta-footer-thumb {
   opacity: 1;
+  transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
 }
 
 /* 縮圖圖片效果 */
