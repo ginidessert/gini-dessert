@@ -1,5 +1,4 @@
----
----
+/* 卡片底部區塊 */
 .wrapfooter {
   display: flex;
   align-items: center;
@@ -7,38 +6,43 @@
   margin-top: 1rem;
 }
 
-/* 左邊資訊區塊，只有這塊會滑動 */ 
-.footer-left{
+/* 左側作者資訊區塊 */
+.footer-left {
   display: flex;
   align-items: center;
   gap: 6px;
   font-size: 1rem;
   color: #aaa;
-  padding-left: 0.25rem; /* 頭貼原本空間 */
-  transform: translateX(-3.5rem); /* 初始向左移，佔頭貼位置 */
+
+  /* 初始偏移與縮進，讓動畫與文字切齊 */
+  padding-left: 0.25rem;
+  transform: translateX(-3.5rem);
+  opacity: 1;
+
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
+/* 滑鼠移入卡片時，回正 */
 .card:hover .footer-left {
-  transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
-  opacity: 1;
+  transform: translateX(0);
 }
 
-/* 頭貼容器初始透明 */
+/* 頭貼容器初始隱藏 */
 .meta-footer-thumb {
   width: 32px;
   height: 32px;
   flex-shrink: 0;
   opacity: 0;
-  transition: opacity 0.2s ease 0s; /* 快速隱藏、無延遲 */
+  transition: opacity 0.2s ease 0s;
 }
 
+/* 滑鼠移入時淡入頭貼 */
 .card:hover .meta-footer-thumb {
   opacity: 1;
-  transition: opacity 0.5s ease 0.25s; /* 慢慢出現、延遲 0.25s */
+  transition: opacity 0.5s ease 0.25s;
 }
 
-
+/* 頭貼圖片樣式 */
 .meta-footer-thumb img {
   width: 100%;
   height: 100%;
@@ -47,42 +51,12 @@
   display: block;
 }
 
+/* 作者文字與頭貼間距 */
+.author-meta {
+  margin-left: 0.5rem;
+}
+
+/* 右側補齊空間 */
 .footer-right {
   flex-shrink: 0;
 }
-
-
-/* 調整文章內文字樣式 */
-.post-excerpt p {
-  display: inline;
-}
-
-/* ✅ 卡片內圖片裁成 1:1 且置中 */
-.post-image {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.post-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.layout-categories .footer-left {
-  padding-left: 0.25rem;
-  transform: translateX(-3.5rem);
-  opacity: 1;  /* ✅ 讓初始就顯示 */
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-  "syntax",
-  "starsnonscss"
-;
