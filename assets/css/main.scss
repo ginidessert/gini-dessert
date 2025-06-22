@@ -19,13 +19,6 @@
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-.layout-categories .footer-left {
-  padding-left: 0.25rem;
-  transform: translateX(-3.5rem);
-  opacity: 1;  /* ✅ 讓初始就顯示 */
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
 .card:hover .footer-left {
   transform: translateX(0); /* 滑鼠移入時搬回原位 */ 
   opacity: 1;
@@ -78,6 +71,13 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.layout-categories .footer-left {
+  padding-left: 0.25rem;
+  transform: translateX(-3.5rem);
+  opacity: 1;  /* ✅ 讓初始就顯示 */
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 
