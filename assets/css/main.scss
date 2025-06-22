@@ -14,7 +14,7 @@
   gap: 6px;
   font-size: 1rem;
   color: #aaa;
-  padding-left: 0.35rem; /* 頭貼原本空間 */
+  padding-left: 0.25rem; /* 頭貼原本空間 */
   transform: translateX(-3.5rem); /* 初始向左移，佔頭貼位置 */
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
