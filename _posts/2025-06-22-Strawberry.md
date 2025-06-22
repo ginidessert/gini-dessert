@@ -1,6 +1,6 @@
 ---
-title: "Cheese Mochi Ball"
-date: 2026-05-04
+title: "Strawberry"
+date: 2025-06-22
 categories: [Dessert]
 image: assets/images/Strawberry Parfait Cup 2.jpg
 author: Gini
